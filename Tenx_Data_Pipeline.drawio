@@ -22,8 +22,14 @@
         <mxCell id="HXL5w_8WE8nKLOtCgvKd-6" value="S3 - BclFiles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HXL5w_8WE8nKLOtCgvKd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HXL5w_8WE8nKLOtCgvKd-8" target="HXL5w_8WE8nKLOtCgvKd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HXL5w_8WE8nKLOtCgvKd-8" value="S3 - BclFilesNew" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXL5w_8WE8nKLOtCgvKd-10" value="FsX Lustre" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
