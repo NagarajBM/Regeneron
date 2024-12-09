@@ -10,7 +10,7 @@
         <mxCell id="HXL5w_8WE8nKLOtCgvKd-1" value="Sequncer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HXL5w_8WE8nKLOtCgvKd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HXL5w_8WE8nKLOtCgvKd-2" target="HXL5w_8WE8nKLOtCgvKd-6">
+        <mxCell id="HXL5w_8WE8nKLOtCgvKd-7" value="Datasync" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;horizontal=1;verticalAlign=bottom;" edge="1" parent="1" source="HXL5w_8WE8nKLOtCgvKd-2" target="HXL5w_8WE8nKLOtCgvKd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HXL5w_8WE8nKLOtCgvKd-2" value="NetApp Disk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -20,10 +20,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HXL5w_8WE8nKLOtCgvKd-6" value="S3 - BclFiles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HXL5w_8WE8nKLOtCgvKd-8" value="S3 - BclFilesNew" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
